@@ -1,3 +1,3 @@
-# hello-world
-salam
-i really like coding. i am turing 40 and really excited...
+ # hello-world
+Hello
+i really like to learn coding. 
